@@ -1,6 +1,6 @@
 # EMS Beat Detection
 
-This repository contains the Matlab implementation of paper `An adaptive real-time beat detection method for continuous pressure signals`  at [Springer](https://link.springer.com/article/10.1007/s10877-015-9770-z) or link at [ResearchGate](https://www.researchgate.net/publication/281713164_An_adaptive_real-time_beat_detection_method_for_continuous_pressure_signals).
+This repository contains the Matlab implementation of paper `An adaptive real-time beat detection method for continuous pressure signals`  at [Springer](https://link.springer.com/article/10.1007/s10877-015-9770-z). You can download the full-text of this paper at [ResearchGate](https://www.researchgate.net/publication/281713164_An_adaptive_real-time_beat_detection_method_for_continuous_pressure_signals).
 
 
 
@@ -13,7 +13,14 @@ A novel adaptive real-time beat detection method for pressure related signals is
 
 Please install Matlab 2015a or later versions of Matlab.
 
-## Citing
+## Usage
+
+You can easily start it by running ``main.m`` in your Matlab.
+
+
+## Citation
+
+If you find this repository useful in your research, please consider to cite the following related papers:
 
 ```
 @article{Liu2016An,
