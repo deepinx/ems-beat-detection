@@ -1,0 +1,9 @@
+Source: record mimicdb/055/055  Start: [15:36:26.000 02/03/1995]
+val has 1 row (signal) and 1000000 columns (samples/signal)
+Duration:  2:13:20
+Sampling frequency: 125 Hz  Sampling interval: 0.008 sec
+Row	Signal	Gain	Base	Units
+1	ABP 	20	-1600	mmHg
+
+To convert from raw units to the physical units shown
+above, subtract 'base' and divide by 'gain'.
