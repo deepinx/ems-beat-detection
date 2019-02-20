@@ -26,6 +26,10 @@ ICP signal and the peaks identified by the EMS method and the HBF method
 Continuous non-invasive blood pressure signal with rapid changes and the peaks identified by the EMS method
 ![enter image description here](https://github.com/deepinx/ems-beat-detection/blob/master/Fig/Non-invasive-BP.png?raw=true)
 
+
+## License
+MIT LICENSE
+
 ## Citation
 
 If you find this repository useful in your research, please consider to cite the following related papers:
