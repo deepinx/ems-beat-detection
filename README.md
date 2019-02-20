@@ -32,7 +32,7 @@ MIT LICENSE
 
 ## Citation
 
-If you find this repository useful in your research, please consider to cite the following related papers:
+If you find this EMS method useful in your research, please consider to cite the following related papers:
 
 ```
 @article{Liu2016An,
